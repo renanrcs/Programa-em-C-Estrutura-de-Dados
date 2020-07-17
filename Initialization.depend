@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594994908 source:/home/renan/CUROS/NesoAcademy/CuroEmCEstruturaDados/Initialization/main.c
+	<stdio.h>
+	<stdlib.h>
+
